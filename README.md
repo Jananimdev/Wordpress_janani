@@ -8,5 +8,5 @@ This repository contains the files for my WordPress website.
 - **Hosting**:  jananidev.42web.io
 
   This is my first basic website using the wordpress
-  [Visit my website]( jananidev.42web.io)
+  [Visit my website](https://jananidev.42web.io/?i=1)
 
